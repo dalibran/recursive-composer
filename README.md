@@ -51,7 +51,7 @@ def init_sentences(input, cycle = 0, level = 0, results = [], **args)
 end
 ```
 
-In this function, I generate a set of potential paths based on the first characters in my input string. There could be more than one branch/path at any given point when building a sentence, so I make sure to save those branches in my `paths =[]` array. This way I can iterate through each path until all options are exhausted, regardless of where I am in constructing a sentence.
+In this function, I generate a set of potential paths based on the first characters in my input string. There could be more than one branch/path at any given point when building a sentence, so I make sure to save those branches in my `paths` array. This way I can iterate through each path until all options are exhausted, regardless of where I am in constructing a sentence.
 
 Once I start building my sentence via `str`, I remove my used characters from the input string and call `init_sentences` again to generate new paths now that my input string is slightly smaller. The algorithm recursively builds a sentence until the input string is empty, and the completed sentence is then pushed to a `results` array.
 
