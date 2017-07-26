@@ -62,13 +62,13 @@ I use `level` and `cycle` to keep track of how deep I'm traveling down a specifi
 
 If you'd like to play around with the algorithm...
 
-1. Clone the Repo onto your Local Machine
+1. Clone the repo on your local machine
 
 ```zsh
 git clone git@github.com:dalibran/recursive-composer.git
 ```
 
-2. Navigate to the Project Directory and Install Relevant Gems
+2. Navigate to the project directory and install relevant gems
 
 ```zsh
 bundle install
