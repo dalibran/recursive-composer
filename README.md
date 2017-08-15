@@ -1,8 +1,8 @@
-<h1>Recursive Composer</h1>
-
 ![Ruby](https://dl.dropboxusercontent.com/u/10661713/ruby.png)
 ![Rspec](https://dl.dropboxusercontent.com/u/10661713/rspec.png)
 ![Rubocop](https://dl.dropboxusercontent.com/u/10661713/rubocop.png)
+
+<h1>Recursive Composer</h1>
 
 This is my solution to a recent coding challenge I completed. I developed a solution primarily based on recursion, where I created an algorithm that builds valid sentences based on all branching possibilities. This algorithm was built using Ruby and I wrote tests using Rspec.
 
