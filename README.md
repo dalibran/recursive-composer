@@ -1,6 +1,9 @@
 ![Ruby](https://dl.dropboxusercontent.com/u/10661713/ruby.png)
 ![Rspec](https://dl.dropboxusercontent.com/u/10661713/rspec.png)
 ![Rubocop](https://dl.dropboxusercontent.com/u/10661713/rubocop.png)
+<img src="https://orig06.deviantart.net/9941/f/2013/261/a/f/ruby_minimal_logo_by_oscarito201094-d6mvh10.png" alt="ruby" width="64px" height="64px">
+<img src="http://rspec.info/images/logo.png" alt="rspec" width="64px" height="64px">
+<img src="https://cdn.worldvectorlogo.com/logos/rubocop.svg" alt="rubocop" width="64px" height="64px">
 
 <h1>Recursive Composer</h1>
 
